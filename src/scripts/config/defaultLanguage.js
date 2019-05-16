@@ -56,6 +56,8 @@
             'By Client Name': 'By Client Name',
             'Filters': 'Filters',
             'Download': 'Download',
+            'File Browser': 'File Browser',
+            'File Download': 'File Download',
             'Upload': 'Upload',
             'Downloading': 'Downloading',
             'Pending Verification': 'Pending Verification',
